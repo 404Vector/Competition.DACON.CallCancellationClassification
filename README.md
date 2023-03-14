@@ -1,20 +1,20 @@
-# Competition.DACON.CallCancellationClassification
+# Competition.DACON.CallCancellationClassification 
+[Competition Link](https://dacon.io/competitions/official/236075)
 ## 개요
-[배경] 
-안녕하세요, 데이커 여러분! 데이콘 Basic 전화 해지 여부 분류 AI 경진대회에 오신 것을 환영합니다!
-통화 데이터를 이용해 전화 해지 여부 분류 모델을 만들어 주세요.
-다른 사람들과 인사이트를 겨루며 알고리즘 대회의 즐거움을 느껴 보세요.
-
 [주제]
+
 통화 데이터로부터 전화해지여부를 예측하는 AI 알고리즘 개발
 
 [설명]
+
 전화 해지여부를 분류하세요.
 
 [주최 / 주관]
+
 데이콘
 
 [기간]
+
 2023년 03월 13일 10:00 ~ 2023년 03월 27일 10:00
 
 ## 규칙
