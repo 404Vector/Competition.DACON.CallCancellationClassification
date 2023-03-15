@@ -11,6 +11,7 @@ matplotlib = "*"
 seaborn = "*"
 tqdm = "*"
 xgboost = "*"
+lightgbm = "*"
 
 [dev-packages]
 ipykernel = "*"
